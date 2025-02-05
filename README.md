@@ -1,1 +1,1 @@
-My first readme
+This is my first time using GitHub, i'm very exiting beacuse i never use this repositories and Github is a software that is difficult for me, but i'm here, with my first repository and now i know how to create one :D
